@@ -5,8 +5,7 @@
   # role: Founder & Primary Developer
   # duration: 2012 &mdash; Present
   url: "https://github.com/masterdineshchoudhary/RPA-in-Education-Industry"
-  description: Bot that automatically starts online Google meeting, shares meeting link in the WhatsApp
-group and records attendance, generates excel sheets, and sends Alerts.
+  description: Bot that automatically starts online Google meeting, shares meeting link in the WhatsApp group and records attendance, generates excel sheets, and sends Alerts.
 
 - project: ECart
   # role: Co-Founder & Organizer
